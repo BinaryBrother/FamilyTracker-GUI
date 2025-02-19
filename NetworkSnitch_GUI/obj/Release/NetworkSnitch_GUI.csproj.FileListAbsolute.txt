@@ -1,0 +1,10 @@
+D:\Dropbox\Projects\NetworkSnitch\C#\NetworkSnitch_GUI\bin\Release\NetworkSnitch_GUI.exe.config
+D:\Dropbox\Projects\NetworkSnitch\C#\NetworkSnitch_GUI\bin\Release\NetworkSnitch_GUI.exe
+D:\Dropbox\Projects\NetworkSnitch\C#\NetworkSnitch_GUI\bin\Release\NetworkSnitch_GUI.pdb
+D:\Dropbox\Projects\NetworkSnitch\C#\NetworkSnitch_GUI\obj\Release\NetworkSnitch_GUI.csproj.AssemblyReference.cache
+D:\Dropbox\Projects\NetworkSnitch\C#\NetworkSnitch_GUI\obj\Release\NetworkSnitch_GUI.Form1.resources
+D:\Dropbox\Projects\NetworkSnitch\C#\NetworkSnitch_GUI\obj\Release\NetworkSnitch_GUI.Properties.Resources.resources
+D:\Dropbox\Projects\NetworkSnitch\C#\NetworkSnitch_GUI\obj\Release\NetworkSnitch_GUI.csproj.GenerateResource.cache
+D:\Dropbox\Projects\NetworkSnitch\C#\NetworkSnitch_GUI\obj\Release\NetworkSnitch_GUI.csproj.CoreCompileInputs.cache
+D:\Dropbox\Projects\NetworkSnitch\C#\NetworkSnitch_GUI\obj\Release\NetworkSnitch_GUI.exe
+D:\Dropbox\Projects\NetworkSnitch\C#\NetworkSnitch_GUI\obj\Release\NetworkSnitch_GUI.pdb
