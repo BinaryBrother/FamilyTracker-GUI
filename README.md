@@ -1,2 +1,2 @@
-# NetworkSnitch-GUI
- A GUI for NetworkSnitch!
+# Family Tracker-GUI
+ A GUI for FamilyTracker!
